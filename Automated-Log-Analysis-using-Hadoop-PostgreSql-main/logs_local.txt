@@ -1,7 +1,0 @@
-2026-03-20 13:45:34|INFO|main|com.loganalysis.AutomationApp:11|APP_START|Starting automation
-2026-03-20 13:45:35|INFO|main|com.loganalysis.AutomationApp:17|BROWSER_OPEN|Opening browser
-2026-03-20 13:45:36|INFO|main|com.loganalysis.AutomationApp:19|NAVIGATION|Navigated to URL
-2026-03-20 13:45:36|INFO|main|com.loganalysis.AutomationApp:21|LOGIN_ATTEMPT|Trying login
-2026-03-20 13:45:36|INFO|main|com.loganalysis.AutomationApp:23|LOGIN_SUCCESS|Login simulated
-2026-03-20 13:45:36|INFO|main|com.loganalysis.AutomationApp:24|ACTION|Performing some action
-2026-03-20 13:45:36|INFO|main|com.loganalysis.AutomationApp:31|APP_END|Automation finished
