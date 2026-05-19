@@ -1,0 +1,6 @@
+com/loganalysis/DataProcessor.class
+com/loganalysis/LogHadoopProcessor.class
+com/loganalysis/LogHadoopProcessor$LogMapper.class
+com/loganalysis/AutomationApp.class
+com/loganalysis/LogHadoopProcessor$LogReducer.class
+com/loganalysis/LoggerUtil.class
